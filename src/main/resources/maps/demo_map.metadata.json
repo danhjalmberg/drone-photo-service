@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "title": "Demo map - Mercato Coperto, Trieste",
+  "source": "Regione Autonoma Friuli Venezia Giulia - IRDATfvg",
+  "license": "Italian Open Data License 2.0",
+  "attribution": "Contains data from Regione Autonoma Friuli Venezia Giulia - IRDATfvg, licensed under IODL 2.0.",
+  "metersPerPixel": 0.2,
+  "coordinateReferenceSystem": "WGS84",
+  "upperLeftLatitude": 45.655,
+  "upperLeftLongitude": 13.769,
+  "derivedFrom": "True ortofoto RAFVG 2017-2020",
+  "modified": "Cropped/resampled/converted to JPEG for demo use"
+}
